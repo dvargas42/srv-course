@@ -1,0 +1,1 @@
+ALTER DATABASE course SET timezone = 'UTC';
